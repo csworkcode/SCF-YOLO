@@ -14,4 +14,4 @@ A publicly available dataset for helmet wear detection is provided.It includes a
 <img src=".\VOC2007\jpg\000030.jpg" width="300px"><img src=".\VOC2007\jpg\000037.jpg" width="300px">
 
 
-模型部分模块代码如文件model.py所示。数据集如文件夹VOC2007所示，由于我们的部分数据集来源于课题项目，因此目前我们只公开部分数据，待工程项目完毕，其余数据集再进行公开！
+The model part of the module code is shown in the file model.py. The dataset is shown in the folder VOC2007. Since some of our dataset comes from the subject project, we will only disclose part of the data at the moment, and the rest of the dataset will be disclosed when the engineering project is completed!
