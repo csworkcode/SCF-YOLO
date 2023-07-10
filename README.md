@@ -9,8 +9,8 @@ In order to evaluate the proposed method, we created a new dataset of helmets fo
 ## SHWD: 
 A publicly available dataset for helmet wear detection is provided.It includes a total of 7581 images with 9044 human helmet wearers (positive) and 111514 normal head objects (unworn or negative).
 
-<img src=".\VOC2007\jpg\000000.jpg" width="300px"><img src=".\VOC2007\jpg\000005.jpg" width="300px"><img src=".\VOC2007\jpg\000009.jpg" width="300px">
-<img src=".\VOC2007\jpg\000013.jpg" width="300px"><img src=".\VOC2007\jpg\000019.jpg" width="300px"><img src=".\VOC2007\jpg\000025.jpg" width="300px">
+<img src=".\VOC2007\jpg\000000.jpg" width="300px"><img src=".\VOC2007\jpg\000009.jpg" width="300px">
+<img src=".\VOC2007\jpg\000019.jpg" width="300px"><img src=".\VOC2007\jpg\000025.jpg" width="300px">
 <img src=".\VOC2007\jpg\000030.jpg" width="300px"><img src=".\VOC2007\jpg\000037.jpg" width="300px"><img src=".\VOC2007\jpg\000048.jpg" width="300px">
 
 
